@@ -1,4 +1,4 @@
 # Js_game
-This repo has a javascript game for learning Js
-
+This repo has a basic javascript game for learning Js
+ 
 
